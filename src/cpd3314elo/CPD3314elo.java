@@ -16,6 +16,5 @@ public class CPD3314elo {
      */
     public static void main(String[] args) {
         System.out.println("Hello World");
-     
-    
+    }
 }
